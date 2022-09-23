@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @7SW
+- I’m @7SW 
 - 👀 I’m interested in designing and presenting information. All things ASCIIDOC, API design in any shape or form ;). And feature-rich UIs.
-- 🌱 I’m currently learning Go (next to multiple other things that I know a bit about, but never fully master)
+- 🌱 Making some tools in Go (Golang): fun!
+
 <!--- 💞️ I’m looking to collaborate on
 - 📫 How to reach me ... --->
 
