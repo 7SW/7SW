@@ -4,6 +4,6 @@
 
 &&
 
-- **Using AI in educational settings: How to use AI to learn ... get wiser yourself !!**
+- **Using AI in educational settings: How to apply AI in learning and education: not replace, but teach !!**
 
 💞️ I’m learning Go ... for a while now 😊 ... somehow teaming up or course-tips are welcome!!
